@@ -12,5 +12,3 @@ print(f"The sum of {number1} and {number2} is {sum}.")
 
 
 
-
-
