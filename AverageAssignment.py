@@ -1,11 +1,7 @@
 #Print a line asking the user to enter three numbers
-
 #Prompt the user to enter the three integers, one at a time
-
 #Display the three numbers entered, their sum, and the average.
-
 #You can assume the user will only enter positive integers
-
 #Example output: (you do not have to match my words exactly)
 
 #Please enter three whole numbers:
